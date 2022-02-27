@@ -6,7 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Projects
 ### Completed
+1. [https://github.com/raj2022/machine-learning-CMS-Data](https://github.com/raj2022/machine-learning-CMS-Data)
+
 ### Ongoing
+  1. [https://github.com/raj2022/HiggsAnalysis](https://github.com/raj2022/HiggsAnalysis)
 
 
 ### Markdown
@@ -18,11 +21,9 @@ Syntax highlighted code block
 
 # Projects
 ## Completed
-1. [https://github.com/raj2022/machine-learning-CMS-Data](https://github.com/raj2022/machine-learning-CMS-Data)
 
 ## Ongoing
    
-  1. [https://github.com/raj2022/HiggsAnalysis](https://github.com/raj2022/HiggsAnalysis)
 # Internships
 ### Header 3
 
