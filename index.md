@@ -18,7 +18,11 @@ Syntax highlighted code block
 
 # Projects
 ## Completed
+1. [https://github.com/raj2022/machine-learning-CMS-Data](https://github.com/raj2022/machine-learning-CMS-Data)
+
 ## Ongoing
+   
+  1. [https://github.com/raj2022/HiggsAnalysis](https://github.com/raj2022/HiggsAnalysis)
 # Internships
 ### Header 3
 
