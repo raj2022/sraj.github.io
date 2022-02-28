@@ -3,7 +3,8 @@ repo_name:  Shivam Raj's homepage
 repo_url: https://github.com/raj2022/sraj.github.io
 # edit_uri: edit/102x/docs
 
-
+nav:
+        - Home: index.md
 # theme: jekyll-theme-midnight
 # title: Shivam Raj's homepage
 # description: My homepage
