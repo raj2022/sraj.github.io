@@ -1,3 +1,24 @@
-theme: jekyll-theme-midnight
-title: Shivam Raj's homepage
-description: My homepage
+site_name: Homepage
+repo_name:  Shivam Raj's homepage
+repo_url: https://github.com/raj2022/sraj.github.io
+# edit_uri: edit/102x/docs
+
+
+# theme: jekyll-theme-midnight
+# title: Shivam Raj's homepage
+# description: My homepage
+theme:
+        name: jekyll-theme-midnight
+        include_sidebar: true
+        highlightjs: true
+
+extra_css:
+  - "mystyle.css"
+
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+
+markdown_extensions:
+        - pymdownx.arithmatex
+        - pymdownx.details
+        - admonition
