@@ -5,6 +5,8 @@ repo_url: https://github.com/raj2022/sraj.github.io
 
 nav:
         - Home: index.md
+        - Projects:
+          - "Master's Project"
 # theme: jekyll-theme-midnight
 # title: Shivam Raj's homepage
 # description: My homepage
